@@ -14,7 +14,7 @@
 
 - 💬 Ask me about : **Data, statistics, Bi tools, python, DSA**
 
-- 📫 How to reach me : ** chandanregins1@gmail.com**
+- 📫 How to reach me : **chandanregins1@gmail.com**
 
 - ⚡ Fun fact : **🎉 While I analyze numbers and data during the day, I'm also a secret karaoke superstar by night. You'll often find me 🎤 belting out my favorite tunes after work, bringing a little harmony 🎶 to the world of data analysis!**
 
