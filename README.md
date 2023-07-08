@@ -12,7 +12,9 @@
 
 - 👨‍💻 All of my projects are available at : [https://linktr.ee/ChandanNagaraj](https://linktr.ee/ChandanNagaraj)
 
+
 - 💬 Ask me about : **Data, statistics, Bi tools, python, DSA**
+
 
 - 📫 How to reach me : **chandanregins1@gmail.com**
 
