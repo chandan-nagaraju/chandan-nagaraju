@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/chandan-nagaraju/chandan-nagaraju/blob/main/data_driven_decisions.png)]
+![MasterHead](https://github.com/chandan-nagaraju/chandan-nagaraju/blob/main/data_driven_decisions.png)
 <h1 align="center">Hi 👋, I'm Chandan N</h1>
 <h3 align="center">I provide businesses with valuable insights derived from big data.</h3>
 
