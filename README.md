@@ -1,8 +1,8 @@
 ![logo]()
-<h1 align="center">I'm Chandan N</h1>
+<h1 align="center">Hi 👋, I'm Chandan N</h1>
 <h3 align="center">I provide businesses with valuable insights derived from big data.</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan-nagaraju&label=Profile%20views&color=0e75b6&style=flat" alt="chandan-nagaraju" /> </p>
 
